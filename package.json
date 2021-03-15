@@ -20,6 +20,7 @@
   "homepage": "https://github.com/rogernomen/heroku-node#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongodb": "^3.6.4",
     "tslint": "^6.1.3",
     "typescript": "^4.2.3"
   },
